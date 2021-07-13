@@ -1,3 +1,3 @@
 # portfolio
-My self potfolio.
+My self portfolio.
 https://5huraif.000webhostapp.com
