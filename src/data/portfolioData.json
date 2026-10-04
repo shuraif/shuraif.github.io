@@ -1,0 +1,228 @@
+{
+  "personal": {
+    "name": "Muhammed Shuraif",
+    "role": "Fullstack Developer",
+    "bio": "Accomplished software developer with years of experience in development of applications. Excels in every stage of the software development lifecycle, including Requirement Analysis, Design, Development, Testing, Deployment, and Maintenance. Good in devising innovative and tailored solutions to assist businesses in achieving their goals.",
+    "location": "Available for work globally",
+    "status": "Available for work"
+  },
+  "socials": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/shuraif",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammed-shuraif-395692123/",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/5huraif/",
+      "icon": "instagram"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "tags": ["Reactjs", "Redux", "Material UI", "HTML5", "CSS", "Javascript"]
+    },
+    {
+      "category": "Backend",
+      "tags": ["Java", "Springboot", "Hibernate", "Kafka"]
+    },
+    {
+      "category": "Mobile Apps",
+      "tags": ["React Native", "Java"]
+    },
+    {
+      "category": "Database",
+      "tags": ["MySQL", "SQLite", "SQL"]
+    }
+  ],
+  "experiences": [
+    {
+      "role": "Senior Application Developer",
+      "company": "IBM",
+      "duration": "Feb 2026 - Present",
+      "location": "Remote / Hybrid",
+      "achievements": [
+        "Designed and developed user stories based on a deep understanding of client requirements, ensuring accurate and effective implementation.",
+        "Proactively identified and resolved issues reported by clients and cross-functional teams, ensuring seamless project delivery and client satisfaction.",
+        "Tracking errors and analyzing trends to improve product quality and prevent future issues.",
+        "Leading and facilitating Scrum meetings, including daily stand-ups, sprint planning, sprint reviews, and retrospectives.",
+        "Releasing ad hoc product patches"
+      ],
+      "techStack": ["Java", "Springboot", "Kafka"]
+    },
+    {
+      "role": "Senior Solution Engineer",
+      "company": "IBS",
+      "duration": "Jan 2023 - Feb 2026",
+      "location": "Remote / Hybrid",
+      "achievements": [
+        "Designed and developed user stories based on a deep understanding of client requirements, ensuring accurate and effective implementation.",
+        "Proactively identified and resolved issues reported by clients and cross-functional teams, ensuring seamless project delivery and client satisfaction.",
+        "Tracking errors and analyzing trends to improve product quality and prevent future issues.",
+        "Leading and facilitating Scrum meetings, including daily stand-ups, sprint planning, sprint reviews, and retrospectives.",
+        "Releasing ad hoc product patches"
+      ],
+      "techStack": ["Java", "Springboot", "React"]
+    },
+    {
+      "role": "Software Developer",
+      "company": "UST",
+      "duration": "Sep 2019 - Jan 2023",
+      "location": "Hybrid",
+      "achievements": [
+        "Created scalable Spring Boot microservices and REST APIs, contributing to high-performance applications.",
+        "Designed and implemented React.js components, seamlessly integrating them with backend services.",
+        "Developed standalone Java applications for business automation using Spring Boot and Apache Camel.",
+        "Mentored junior developers, monitored production operations, and managed ad-hoc product patches."
+      ],
+      "techStack": ["Java", "Spring Boot", "Microservices", "React.js", "Apache Camel", "REST APIs"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Digital Banking & Cards Platform",
+      "summary": "Modern banking platform focused on credit/debit card management and digital wallet integrations.",
+      "highlights": [
+        "Developing scalable backend systems for card provisioning, lifecycle management, and digital wallet setups.",
+        "Architecting event-driven microservices using Java, Spring Boot, and Kafka for secure, high-throughput financial transactions.",
+        "Ensuring strict compliance with banking security standards and data protection protocols."
+      ],
+      "techStack": ["Java", "Spring Boot", "Kafka", "Microservices", "FinTech"],
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Airline Search & Ticketing Platform",
+      "summary": "Comprehensive flight search, booking, and ticketing system for airline operations.",
+      "highlights": [
+        "Engineered the core booking and ticketing engine for a major airline client.",
+        "Integrated the Sabre Global Distribution System (GDS) API for real-time flight search and reservations.",
+        "Built scalable backend services using Java and Spring Boot to handle high-volume transaction processing."
+      ],
+      "techStack": ["Java", "Spring Boot", "Sabre API", "React.js", "Microservices"],
+      "liveUrl": "",
+      "githubUrl": ""
+    },
+    {
+      "title": "Enterprise Health Insurance Suite",
+      "summary": "A comprehensive health insurance platform comprising an enrollment system, member portal, and customer service admin dashboard.",
+      "highlights": [
+        "Developed a robust suite of Spring Boot microservices and standalone applications for business automation and core enrollment.",
+        "Designed and built responsive user interfaces for members and admins using React.js and Material UI.",
+        "Integrated a wide array of AWS cloud services including Aurora, Cognito, S3, SES, SQS, Lambda, and Amplify."
+      ],
+      "techStack": ["Spring Boot", "Microservices", "React.js", "Material UI", "AWS", "Apache Camel"],
+      "liveUrl": "",
+      "githubUrl": ""
+    }
+  ],
+  "hobbyProjects": [
+    {
+      "title": "Encrypto",
+      "summary": "A user-friendly file security app designed to protect sensitive data with offline, state-of-the-art AES-CBC encryption.",
+      "highlights": [
+        "Built with React Native, node-forge, and SQLite.",
+        "Supports 16KB memory page sizes for up to 30% faster encryption on modern Android devices.",
+        "100% offline, lightweight, and features a minimalistic design with biometric authentication."
+      ],
+      "techStack": [
+        "React Native",
+        "Node-forge",
+        "SQLite",
+        "Android",
+        "iOS"
+      ],
+      "liveUrl": "https://play.google.com/store/apps/details?id=com.expedire.encrypto",
+      "githubUrl": ""
+    },
+
+    {
+      "title": "PaisaTrackr",
+      "summary": "A simple, intuitive personal finance app to track expenses, manage multiple accounts, and stick to your budget.",
+      "highlights": [
+        "Built with React Native, Redux Toolkit, and SQLite.",
+        "Features multiple account management, custom budget alerts, and in-depth reports.",
+        "Minimalistic, user-friendly, and offline-first currency-free design."
+      ],
+      "techStack": [
+        "React Native",
+        "Redux Toolkit",
+        "SQLite",
+        "Android",
+        "iOS"
+      ],
+      "liveUrl": "https://play.google.com/store/apps/details?id=com.ei.paisatrackr",
+      "githubUrl": ""
+    },
+        
+    {
+  "title": "TriMorris",
+  "summary": "A beautifully crafted modern adaptation of the ancient Three Men's Morris game, offering strategic gameplay against friends or a smart AI.",
+  "highlights": [
+    "Built with React Native, TypeScript, and Redux Toolkit.",
+    "Features local multiplayer, a smart AI opponent, and an interactive tutorial.",
+    "Ad-free, offline-first experience with beautiful retro graphics and smooth animations."
+  ],
+  "techStack": [
+    "React Native",
+    "TypeScript",
+    "Redux Toolkit",
+    "Android",
+    "iOS"
+  ],
+  "liveUrl": "https://play.google.com/store/apps/details?id=com.ei.trimorris",
+  "githubUrl": "https://github.com/shuraif/TriMorris"
+},
+    {
+      "title": "Whistory",
+      "summary": "A fast, privacy-focused web application to view and analyze exported WhatsApp chat backups entirely locally in the browser.",
+      "highlights": [
+        "Built with React, Vite, and Tailwind CSS for a responsive and modern interface.",
+        "Processes and parses WhatsApp chat .zip exports directly on the client using zip.js, ensuring user data never leaves the device.",
+        "Features high-performance virtualized lists to seamlessly render thousands of messages, alongside advanced search and date filtering capabilities."
+      ],
+      "techStack": [
+        "React",
+        "Tailwind CSS",
+        "Vite",
+        "zip.js",
+        "Web"
+      ],
+      "liveUrl": "https://whistory-client.netlify.app/",
+      "githubUrl": "https://github.com/shuraif/Whistory"
+    },
+        {
+      "title": "Insta Intruder",
+      "summary": "A simple client-side web app that compares your Instagram followers vs followings to identify users who don't follow you back.",
+      "highlights": [
+        "Runs 100% client-side—no backend required, ensuring your exported data remains completely private.",
+        "Automatically parses Instagram's 'Your Information' JSON exports to compute list differences.",
+        "Features a clean, modern UI built with React Hooks and Tailwind CSS, complete with file validation."
+      ],
+      "techStack": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "JavaScript"
+      ],
+      "liveUrl": "https://insta-intruder.netlify.app/",
+      "githubUrl": "https://github.com/shuraif/insta-intruder"
+    }
+
+
+  ],
+  "contact": {
+    "email": "shuraifpilathara@gmail.com",
+    "phone": "+91 9496369704",
+    "linkedin": "https://www.linkedin.com/in/muhammed-shuraif-395692123/",
+    "github": "https://github.com/shuraif",
+    "Instagram" : "https://www.instagram.com/5huraif/",
+    "messageIntro": "Hire Me/Contact for freelance work"
+  }
+}
