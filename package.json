@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist -b master"
+    "deploy": "gh-pages -d dist -b main"
   },
   "dependencies": {
     "lucide-react": "^1.52.0",
